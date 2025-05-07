@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**hafiz011/hafiz011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Md Hafizur Rahman**, a passionate and versatile **.NET Developer** and **Cybersecurity Specialist** with expertise in building secure, scalable web and IoT solutions.
 
-Here are some ideas to get you started:
+### 💼 Technical Skills
+- 💻 Languages & Frameworks: **ASP.NET Core**, **C#**, **JavaScript**, **React**, **Microservices**
+- 🗄️ Databases: **MongoDB**, **MySQL**
+- ☁️ Cloud & DevOps: **AWS**, **Azure**, **Docker**
+- 🔒 Cybersecurity: **Ethical Hacking**, **Network Security**, **IoT Security**
+- 🛠️ Other Skills: **Server Administration (Linux & Windows)**, **Automation**, **AI Integration**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Always Learning
+I actively expand my skills through platforms like **TryHackMe**, **CTF challenges**, and continuous exploration of emerging technologies.
+
+### 🚀 What I Do
+- Develop full-stack applications using .NET and modern frontend frameworks
+- Secure and maintain cloud-based infrastructure
+- Integrate AI to enhance security and user experience
+- Contribute to innovative IoT and automation projects
+
+---
+
+📫 **Let’s connect!**  
+Feel free to explore my repositories or reach out for collaboration opportunities.
+
