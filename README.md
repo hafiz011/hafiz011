@@ -33,7 +33,7 @@ I'm **Md Hafizur Rahman**, a passionate and versatile **.NET Developer** and **C
 
 📫 **Connect with me**  
 👉 [Portfolio](https://v0-react-code-review-six-roan.vercel.app/)  
-👉 [LinkedIn](https://www.linkedin.com/in/hafiz011/)  
+👉 [LinkedIn](https://www.linkedin.com/in/dev-hafiz)  
 👉 [GitHub](https://github.com/hafiz011)
 👉 [TryHackMe](https://tryhackme.com/p/Md.Hafiz)
 
