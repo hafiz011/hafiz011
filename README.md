@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-I'm **Md Hafizur Rahman**, a passionate and versatile **.NET Developer** and **Cybersecurity Specialist** with expertise in building secure, scalable web and IoT solutions.
+I'm **Md Hafizur Rahman**, a passionate and versatile **.NET Developer** and **Cybersecurity Specialist** focused on building secure, scalable, and intelligent applications for the modern web, cloud, and IoT ecosystem.
+
+---
 
 ### 💼 Technical Skills
-- 💻 Languages & Frameworks: **ASP.NET Core**, **C#**, **JavaScript**, **React**, **Microservices**
-- 🗄️ Databases: **MongoDB**, **MySQL**
-- ☁️ Cloud & DevOps: **AWS**, **Azure**, **Docker**
-- 🔒 Cybersecurity: **Ethical Hacking**, **Network Security**, **IoT Security**
-- 🛠️ Other Skills: **Server Administration (Linux & Windows)**, **Automation**, **AI Integration**
+- 💻 **Languages & Frameworks**: ASP.NET Core, C#, JavaScript, React, Next.js, Microservices
+- 🗄️ **Databases**: MongoDB, MySQL
+- ☁️ **Cloud & DevOps**: AWS, Azure, Docker, Vercel
+- 🔒 **Cybersecurity**: Ethical Hacking, Network Security, IoT Security, Threat Detection
+- 🛠️ **Other Skills**: Server Administration (Linux & Windows), Automation, API Design, AI Integration
 
-### 🧠 Always Learning
-I actively expand my skills through platforms like **TryHackMe**, **CTF challenges**, and continuous exploration of emerging technologies.
+---
+
+### 🧠 Lifelong Learner
+- 💡 Actively learning through **TryHackMe**, CTFs, and real-world security scenarios.
+- 🧪 Experimenting with AI-powered security, behavior analytics, and cloud-native architectures.
+
+---
 
 ### 🚀 What I Do
 - Develop full-stack applications using .NET and modern frontend frameworks
@@ -20,6 +27,14 @@ I actively expand my skills through platforms like **TryHackMe**, **CTF challeng
 
 ---
 
-📫 **Let’s connect!**  
-Feel free to explore my repositories or reach out for collaboration opportunities.
+### 🤝 Let’s Collaborate
+- Building a product? Need help with backend, APIs, or security?
+- Let’s create something impactful and secure together!
 
+📫 **Connect with me**  
+👉 [LinkedIn](https://www.linkedin.com/in/hafiz011/)  
+👉 [GitHub](https://github.com/hafiz011)
+
+---
+
+_"Code smart. Build secure. Think future."_ ⚡
