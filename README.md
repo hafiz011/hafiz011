@@ -6,7 +6,7 @@ I'm **Md Hafizur Rahman**, a passionate and versatile **.NET Developer** and **C
 
 ### 💼 Technical Skills
 - 💻 **Languages & Frameworks**: ASP.NET Core, C#, JavaScript, React, Next.js, Microservices
-- 🗄️ **Databases**: MongoDB, MySQL
+- 🗄️ **Databases**: MongoDB, SQL
 - ☁️ **Cloud & DevOps**: AWS, Azure, Docker, Vercel
 - 🔒 **Cybersecurity**: Ethical Hacking, Network Security, IoT Security, Threat Detection
 - 🛠️ **Other Skills**: Server Administration (Linux & Windows), Automation, API Design, AI Integration
