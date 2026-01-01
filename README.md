@@ -1,43 +1,67 @@
-## Hi there 👋
+# 👋 Hi there, I'm Md Hafizur Rahman
 
-I'm **Md Hafizur Rahman**, a passionate and versatile **.NET Developer** and **Cybersecurity Specialist** focused on building secure, scalable, and intelligent applications for the modern web, cloud, and IoT ecosystem.
+🚀 **.NET Developer | Cybersecurity Specialist | SaaS & Analytics Builder**
 
----
-
-### 💼 Technical Skills
-- 💻 **Languages & Frameworks**: ASP.NET Core, C#, JavaScript, React, Next.js, Microservices
-- 🗄️ **Databases**: MongoDB, SQL
-- ☁️ **Cloud & DevOps**: AWS, Azure, Docker, Vercel
-- 🔒 **Cybersecurity**: Ethical Hacking, Network Security, IoT Security, Threat Detection
-- 🛠️ **Other Skills**: Server Administration (Linux & Windows), Automation, API Design, AI Integration
+I build **secure, scalable, and intelligent applications** for the modern web, cloud, and IoT ecosystem.  
+My focus sits at the intersection of **backend engineering, cybersecurity, and data-driven systems**—from user behavior analytics to real-time anomaly detection.
 
 ---
 
-### 🧠 Lifelong Learner
-- 💡 Actively learning through **TryHackMe**, CTFs, and real-world security scenarios.
-- 🧪 Experimenting with AI-powered security, behavior analytics, and cloud-native architectures.
+## 🔧 Tech Stack & Skills
+
+### 💻 Backend & Frontend
+- **ASP.NET Core**, C#, REST APIs, Microservices  
+- **React**, **Next.js**, JavaScript, TypeScript  
+
+### 🗄️ Databases & Data
+- **MongoDB**, SQL Server  
+- Session lifecycle tracking, activity logging, analytics pipelines  
+
+### ☁️ Cloud & DevOps
+- **AWS**, **Azure**, **Docker**, **Vercel**  
+- CI/CD pipelines, Linux & Windows server administration  
+
+### 🔐 Cybersecurity
+- Ethical Hacking & Network Security  
+- Suspicious behavior & anomaly detection  
+- IoT & application security best practices  
+
+### 🛠️ Other
+- API & SDK design  
+- Automation & system optimization  
+- AI-assisted analytics & security workflows  
 
 ---
 
-### 🚀 What I Do
-- Develop full-stack applications using .NET and modern frontend frameworks
-- Secure and maintain cloud-based infrastructure
-- Integrate AI to enhance security and user experience
-- Contribute to innovative IoT and automation projects
+## 🧠 Always Learning
+- 🧩 Hands-on practice via **TryHackMe**, CTFs, and real-world security labs  
+- 🔍 Exploring **AI-powered behavior analytics** and threat detection  
+- 📈 Improving system design for performance, scalability, and security  
 
 ---
 
-### 🤝 Let’s Collaborate
-- Building a product? Need help with backend, APIs, or security?
-- Let’s create something impactful and secure together!
-
-📫 **Connect with me**  
-👉 [Portfolio](https://eng-hafiz-portfolio.vercel.app/)  
-👉 [LinkedIn](https://www.linkedin.com/in/dev-hafiz)  
-👉 [GitHub](https://github.com/hafiz011)
-👉 [TryHackMe](https://tryhackme.com/p/Md.Hafiz)
-
+## 🚀 What I’m Working On
+- Building **SaaS platforms** for user activity tracking & security analytics  
+- Designing **admin dashboards** with real-time insights  
+- Implementing **suspicious login & session detection** systems  
+- Integrating AI to enhance security signals and user experience  
 
 ---
 
-_"Code smart. Build secure. Think future."_ ⚡
+## 🤝 Let’s Collaborate
+- Need help with **.NET backend, APIs, MongoDB, or security**?
+- Building a **SaaS product, analytics system, or secure platform**?
+
+Let’s build something **reliable, secure, and future-ready**.
+
+---
+
+## 📫 Connect With Me
+- 🌐 **Portfolio**: https://eng-hafiz-portfolio.vercel.app  
+- 💼 **LinkedIn**: https://www.linkedin.com/in/dev-hafiz  
+- 🧑‍💻 **GitHub**: https://github.com/hafiz011  
+- 🛡️ **TryHackMe**: https://tryhackme.com/p/Md.Hafiz  
+
+---
+
+> _“Code smart. Build secure. Think future.”_ ⚡
