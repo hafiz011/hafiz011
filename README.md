@@ -20,45 +20,6 @@ Always leveraging **AI and automation** to boost efficiency, security, and user 
 
 ---
 
-### 📊 Skill Proficiency
-
-**Full Stack Development**  
-![C#](https://img.shields.io/badge/C%23-100%25-239120?style=flat-square)  
-![.NET & ASP.NET Core](https://img.shields.io/badge/.NET_%26_ASP.NET_Core-100%25-512BD4?style=flat-square)  
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-100%25-512BD4?style=flat-square)  
-![JavaScript](https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=flat-square)  
-![React](https://img.shields.io/badge/React-85%25-61DAFB?style=flat-square)  
-![Razor Pages / Blazor](https://img.shields.io/badge/Razor_Pages_%2F_Blazor-90%25-512BD4?style=flat-square)  
-![Microservices](https://img.shields.io/badge/Microservices-95%25-FF6F00?style=flat-square)
-
-**Cloud & Infrastructure**  
-![MongoDB](https://img.shields.io/badge/MongoDB-95%25-47A248?style=flat-square)  
-![SQL / MySQL](https://img.shields.io/badge/SQL_%2F_MySQL-100%25-4479A1?style=flat-square)  
-![Docker & Kubernetes](https://img.shields.io/badge/Docker_%26_Kubernetes-90%25-2496ED?style=flat-square)  
-![AWS](https://img.shields.io/badge/AWS-95%25-232F3E?style=flat-square)  
-![Azure](https://img.shields.io/badge/Azure-90%25-0078D4?style=flat-square)  
-![CI/CD (GitHub Actions)](https://img.shields.io/badge/CI%2FCD-95%25-2088FF?style=flat-square)  
-![Linux / Windows Server](https://img.shields.io/badge/Linux_%2F_Windows_Server-100%25-FCC624?style=flat-square)
-
-**Cybersecurity & DevSecOps**  
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-95%25-8B0000?style=flat-square)  
-![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-95%25-2E7D32?style=flat-square)  
-![Privilege Escalation](https://img.shields.io/badge/Privilege_Escalation-98%25-6A1B9A?style=flat-square)  
-![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-100%25-000000?style=flat-square)  
-![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-95%25-455A64?style=flat-square)  
-![Network Security](https://img.shields.io/badge/Network_Security-100%25-2E7D32?style=flat-square)  
-![TryHackMe / CTFs](https://img.shields.io/badge/TryHackMe_%2F_CTFs-95%25-FF0000?style=flat-square)
-
-**IoT & Embedded Systems**  
-![Sensor Integration](https://img.shields.io/badge/Sensor_Integration-95%25-4CAF50?style=flat-square)  
-![Microcontrollers (ESP32, Arduino)](https://img.shields.io/badge/ESP32_%2F_Arduino-100%25-009688?style=flat-square)  
-![PCBA Repair (L1–L4)](https://img.shields.io/badge/PCBA_Repair-100%25-FF9800?style=flat-square)  
-![Embedded C/C++](https://img.shields.io/badge/Embedded_C%2FC%2B%2B-100%25-00599C?style=flat-square)  
-![MQTT / REST for IoT](https://img.shields.io/badge/MQTT_%2F_REST-100%25-FFC107?style=flat-square)  
-![Device Security](https://img.shields.io/badge/Device_Security-100%25-2E7D32?style=flat-square)
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
